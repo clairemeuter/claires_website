@@ -1,5 +1,5 @@
 name: "."
-title: "mfeo"
+title: "Claire Meuter's Personal Website"
 description: |
   mfeo
 output_dir: "docs"
@@ -13,4 +13,3 @@ navbar:
       href: blog.html   # add
 output: distill::distill_article
 theme: postcards.css
-
