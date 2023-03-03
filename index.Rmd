@@ -1,0 +1,20 @@
+---
+title: "Claire Meuter"
+image: "claire.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/claire-meuter/"
+  - label: GitHub
+    url: "https://github.com/clairemeuter"
+  - label: Email
+    url: "mailto:clairemeuter@ucsb.edu"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+
+My name is Claire Meuter and I'm an environmental data scientist interested in using data analysis and visualization to explore the diverse ecological, economic, and social challenges facing our planet.
+I am especially passionate about land planning and conservation, and using data science and visualization to inform conservation decisions. 
+
+I am currently a second-year MESM student at the UCSB Bren School. 
+
