@@ -1,22 +1,15 @@
 ---
-title: "welcome"
-description: |
-  A short description of the post.
-author:
-  - name: Claire Meuter
-date: 2023-03-03
-output:
-  distill::distill_article:
-    self_contained: false
+title: My first blog post
+layout: single
+author: Claire Meuter
+draft: false
+date: '2023-03-03'
+categories:
+  - rmarkdown
+tags:
+  - blog
+  - rmarkdown
+authors:
+  - claire
+summary: "my very fist blog post! testing.. testing.."
 ---
-
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
-Distill is a publication format for scientific and technical writing, native to the web.
-
-Learn more about using Distill at <https://rstudio.github.io/distill>.
-
-
