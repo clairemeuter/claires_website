@@ -14,7 +14,7 @@ site: distill::distill_website
 ---
 
 My name is Claire Meuter and I'm an environmental data scientist interested in using data analysis and visualization to explore the diverse ecological, economic, and social challenges facing our planet.
-I am especially passionate about land planning and conservation, and using data science and visualization to inform conservation decisions. 
+I am especially passionate about land planning and conservation, and using data science and visualization to inform conservation decisions.
 
 I am currently a second-year MESM student at the UCSB Bren School. 
 
